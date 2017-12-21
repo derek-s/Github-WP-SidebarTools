@@ -1,0 +1,112 @@
+[{
+    "type": "CommitCommentEvent",
+    "desc": "提交评论"
+}, {
+    "type": "CreateEvent",
+    "desc": "创建"
+}, {
+    "type": "DeleteEvent",
+    "desc": "删除"
+}, {
+    "type": "DeploymentEvent",
+    "desc": "部署"
+}, {
+    "type": "DeploymentStatusEvent",
+    "desc": "部署状态"
+}, {
+    "type": "DownloadEvent",
+    "desc": "下载"
+}, {
+    "type": "FollowEvent",
+    "desc": "Follow"
+}, {
+    "type": "ForkEvent",
+    "desc": "Fork"
+}, {
+    "type": "ForkApplyEvent",
+    "desc": "ForkApply"
+}, {
+    "type": "GistEvent",
+    "desc": "Gist"
+}, {
+    "type": "GollumEvent",
+    "desc": "创建/更新Wiki"
+}, {
+    "type": "InstallationEvent",
+    "desc": "安装/卸载"
+}, {
+    "type": "InstallationRepositoriesEvent",
+    "desc": "从安装中添加/删除"
+}, {
+    "type": "IssueCommentEvent",
+    "desc": "问题评论"
+}, {
+    "type": "IssuesEvent",
+    "desc": "问题状态变化"
+}, {
+    "type": "LabelEvent",
+    "desc": "存储库标签变化"
+}, {
+    "type": "MarketplacePurchaseEvent",
+    "desc": "Github市场计划"
+}, {
+    "type": "MemberEvent",
+    "desc": "成员修改"
+}, {
+    "type": "MembershipEvent",
+    "desc": "团队成员修改"
+}, {
+    "type": "MilestoneEvent",
+    "desc": "里程碑变化"
+}, {
+    "type": "OrganizationEvent",
+    "desc": "组织变化"
+}, {
+    "type": "OrgBlockEvent",
+    "desc": "组织用户操作"
+}, {
+    "type": "PageBuildEvent",
+    "desc": "构建Github页面"
+}, {
+    "type": "ProjectCardEvent",
+    "desc": "项目卡变更"
+}, {
+    "type": "ProjectColumnEvent",
+    "desc": "项目列变更"
+}, {
+    "type": "ProjectEvent",
+    "desc": "项目变更"
+}, {
+    "type": "PublicEvent",
+    "desc": "私有库"
+}, {
+    "type": "PullRequestEvent",
+    "desc": "Pull"
+}, {
+    "type": "PullRequestReviewEvent",
+    "desc": "Pull请求复审"
+}, {
+    "type": "PullRequestReviewCommentEvent",
+    "desc": "评论复审"
+}, {
+    "type": "PushEvent",
+    "desc": "Push"
+}, {
+    "type": "ReleaseEvent",
+    "desc": "发布"
+}, {
+    "type": "RepositoryEvent",
+    "desc": "存储库状态变更"
+}, {
+    "type": "StatusEvent",
+    "desc": "Git状态变更"
+}, {
+    "type": "TeamEvent",
+    "desc": "团队变更"
+}, {
+    "type": "TeamAddEvent",
+    "desc": "存储库添加到团队"
+}, {
+    "type": "WatchEvent",
+    "desc": "Watch"
+}]
