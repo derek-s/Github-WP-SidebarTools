@@ -1,0 +1,28 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <title>test</title>
+    <script src="jquery-3.2.1.min.js"></script>
+</head>
+
+<body>
+    <div>
+
+    </div>
+</body>
+<script>
+    $(document).ready(
+        function() {
+            $.getJSON('day.json', function(data) {
+                for (var i = 0; i < 10; i++) {
+                    for (obj in data[i]) {
+                        console.log(obj[1])
+                    }
+                }
+            })
+        }
+    )
+</script>
+
+</html>
