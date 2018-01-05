@@ -22,7 +22,7 @@
 
 #### 使用
 
-在主机商开启定时任务，定时运行Python脚本生成包含Github事件动态的的json文件(day.json)
+在主机上开启定时任务，定时运行Python脚本生成包含Github事件动态的的json文件(day.json)
 
 在需要显示的地方使用JQurey代码来ajax获取day.json并输出到网页当中。
 
